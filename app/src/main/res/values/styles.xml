@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="Theme.MyServices" parent="Theme.AppCompat.Light.NoActionBar">
+            <item name="colorPrimary">#176B52</item>
+            <item name="colorPrimaryDark">#0D4938</item>
+            <item name="colorAccent">#E6A23C</item>
+            <item name="android:fontFamily">sans</item>
+            <item name="android:statusBarColor">#F4F7F5</item>
+            <item name="android:navigationBarColor">#F4F7F5</item>
+        </style>
+
+
+</resources>

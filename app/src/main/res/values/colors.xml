@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="limeGreen">#32CD32</color>
+    <color name="brightRed">#FF1744</color>
+    <color name="deepOrange">#FF5722</color>
+    <color name="skyBlue">#03A9F4</color>
+    <color name="aquaBlue">#00FFFF</color>
+    <color name="gold">#FFD700</color>
+    <color name="purple">#9C27B0</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="teal">#009688</color>
+    <color name="rosePink">#FF69B4</color>
+    <color name="babyPink">#F1C9C1</color>
+    <color name="Thistle"> #CCBADE</color>
+    <color name="classicRose">#EBCEED</color>
+    <color name="lavender">#EDDEFF</color>
+
+    <!-- Grayscale & Neutrals -->
+    <color name="lightGray">#E0E0E0</color> <!-- lighter gray -->
+    <color name="mediumGray">#9E9E9E</color>
+    <color name="darkGray">#616161</color>
+    <color name="almostBlack">#212121</color>
+    <color name="offWhite">#FAFAFA</color>
+    <!-- Earthy/Natural Tones -->
+    <color name="oliveGreen">#808000</color>
+    <color name="brown">#795548</color>
+    <color name="sand">#F4A460</color>
+    <color name="forestGreen">#228B22</color>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Servies</string>
+    <string-array name="service_categories">
+        <item>Water Outage</item>
+        <item>Electricity Problem</item>
+        <item>Potholes and Roads</item>
+        <item>Refuse Collection</item>
+        <item>Sewage Problem</item>
+        <item>Streetlights</item>
+        <item>Illegal Dumping</item>
+        <item>Other</item>
+    </string-array>
+</resources>
